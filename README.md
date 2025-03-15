@@ -62,17 +62,17 @@
 ![Ping AU1 - RyM1](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/f941ae097c5944c0fc2d838366da187817a28e2f/Ai.png)
 
 ## Ping entre Hosts
-Ping gerencia 1 a gerencia 2
+##Ping gerencia 1 a gerencia 2
 ![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/04349ac4145eeb2b5114ae529ad6c20904d4caf8/p12.jpg)
 
-Ping Seguridad 1  a gerencia 2
+###Ping Seguridad 1  a gerencia 2
 ![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/04349ac4145eeb2b5114ae529ad6c20904d4caf8/P22.jpg)
 
-Ping Soporte tecnico 5 a Soporte técnico 2
+###Ping Soporte tecnico 5 a Soporte técnico 2
 ![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/04349ac4145eeb2b5114ae529ad6c20904d4caf8/p23.jpg)
-Ping Ventas 4 a Ventas 1
+###Ping Ventas 4 a Ventas 1
 ![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/04349ac4145eeb2b5114ae529ad6c20904d4caf8/p4.jpg)
-Ping Recepción 1 a recepción 4
+###Ping Recepción 1 a recepción 4
 ![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/04349ac4145eeb2b5114ae529ad6c20904d4caf8/p5.jpg)
 
 
