@@ -1,4 +1,6 @@
 # REDES1_1S2025G4
+Carnet 201905750
+Carnet 202001814
 ## Tablas De IP  Vlan
 | Área de desarrollo      | Vlan         | ID de red    |
 |:------------------------|:------------|:-------------|
@@ -48,7 +50,7 @@
 | 34   |
 | 44   |
 | 54   |
-![Ping AU1 - RyM1]()
+
 ##Topologías implementadas
 ### Área Administración
 ![Ping AU1 - RyM1](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/f941ae097c5944c0fc2d838366da187817a28e2f/Aa.png)
