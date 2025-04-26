@@ -1,6 +1,9 @@
 # Proyecto 2
+## Área CUNDECH
+![]([ruta/de/la/imagen.jpg](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/5ac2dbfa2af5797d1dc87c572ce840db72642e3f/Proyecto%202/imagenes/CUNDECH.png)![image](https://github.com/user-attachments/assets/29d0769e-ba4b-4615-aa65-891772f0cb0a)
+)
 
-## Tabla VLSM - Área CUNDECH
+### Tabla VLSM  
 
 | Nombre VLAN  | VLAN | Host | n | Número máximo de Host (2^n) | Subred         | Primer Host     | Último Host     | Broadcast       | Máscara de red         |
 |--------------|------|------|---|-----------------------------|----------------|------------------|------------------|------------------|-------------------------|
@@ -20,8 +23,10 @@
 | Docentes6     | 192.168.4.195     | 255.255.255.224     | 192.168.4.193      |
 | Docentes7     | 192.168.4.194     | 255.255.255.224     | 192.168.4.193      |
 
-## Tabla VLANs - Área CUNOROC
+##  Área CUNOROC
+![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/5ac2dbfa2af5797d1dc87c572ce840db72642e3f/Proyecto%202/imagenes/CUNOROC.png)
 
+### Tabla VLANs 
 | Nombre VLAN | VLAN | n | Número máximo de Host (2^n) | Subred          | Primer Host     | Último Host     | Broadcast       | Máscara de red             |
 |-------------|------|---|-----------------------------|-----------------|-----------------|-----------------|-----------------|-----------------------------|
 | Biblioteca  | 44   | 7 | 128                         | 192.148.4.0     | 192.148.4.1     | 192.148.4.126   | 192.148.4.127   | /25 (255.255.255.128)       |
@@ -38,7 +43,9 @@
 | Estudiantes3 | 192.148.4.130     | 255.255.255.192     | 192.148.4.129      |
 | Docentes3    | 192.148.4.194     | 255.255.255.224     | 192.148.4.193      |
 
-## Tabla VLANs - Área Central
+##Área Central
+
+### Tabla VLANs 
 ### Tabla de Servidores - Central
 
 | Servidor | VLAN | Red             | Gateway        | IP del servidor  | Máscara de red    |
@@ -47,8 +54,10 @@
 | Server1  | 61   | 192.121.4.0   | 192.121.4.1    | 192.121.4.10     | /24 (255.255.255.0)    |
 | Server2  | 72   | 192.122.4.0   | 192.122.4.2    | 192.122.4.10     | /24 (255.255.255.0)    |
 
-
-## Tabla VLSM - Área CUNOC
+## Área CUNOC
+### Tabla VLSM 
+![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/5ac2dbfa2af5797d1dc87c572ce840db72642e3f/Proyecto%202/imagenes/CUNOC.png
+)
 **ID de Red:** 172.16.4.0/24
 
 | Nombre VLAN | VLAN | Hosts | Subred | IP de red      | Máscara           | Primer Host     | Último Host     | Broadcast       |
@@ -68,8 +77,11 @@
 | Estudiantes 1 | 172.16.4.4       | 172.16.4.1        | 255.255.255.192      |
 | Estudiantes 2 | 172.16.4.3       | 172.16.4.1        | 255.255.255.192      |
 
-## CUM - VLSM
+## CUM
+![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/5ac2dbfa2af5797d1dc87c572ce840db72642e3f/Proyecto%202/imagenes/CUM.png
+)
 
+### Tabla VLSM
 **ID de red:** `192.158.4.0/24`
 
 | Nombre       | VLAN | Hosts | Subred | IP de red       | Máscara           | Primer Host     | Último Host     | Broadcast       |
