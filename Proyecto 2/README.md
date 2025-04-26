@@ -2,7 +2,7 @@
 
 ## Tabla VLSM - Área CUNDECH
 
-| VLSM         | VLAN | Host | n | Número máximo de Host (2^n) | Subred         | Primer Host     | Último Host     | Broadcast       | Máscara de red         |
+| Nombre VLAN  | VLAN | Host | n | Número máximo de Host (2^n) | Subred         | Primer Host     | Último Host     | Broadcast       | Máscara de red         |
 |--------------|------|------|---|-----------------------------|----------------|------------------|------------------|------------------|-------------------------|
 | Biblioteca   | 44   | 100  | 7 | 128                         | 192.168.4.0     | 192.168.4.1      | 192.168.4.126    | 192.168.4.127    | /25 (255.255.255.128)   |
 | Estudiantes  | 14   | 50   | 6 | 64                          | 192.168.4.128   | 192.168.4.129    | 192.168.4.190    | 192.168.4.191    | /26 (255.255.255.192)   |
@@ -22,14 +22,14 @@
 
 ## Tabla VLANs - Área CUNOROC
 
-| VLAN        | Host | n | Número máximo de Host (2^n) | Subred          | Primer Host     | Último Host     | Broadcast       | Máscara de red             |
+| Nombre VLAN | VLAN | n | Número máximo de Host (2^n) | Subred          | Primer Host     | Último Host     | Broadcast       | Máscara de red             |
 |-------------|------|---|-----------------------------|-----------------|-----------------|-----------------|-----------------|-----------------------------|
 | Biblioteca  | 44   | 7 | 128                         | 192.148.4.0     | 192.148.4.1     | 192.148.4.126   | 192.148.4.127   | /25 (255.255.255.128)       |
 | Estudiantes | 14   | 6 | 64                          | 192.148.4.128   | 192.148.4.129   | 192.148.4.190   | 192.148.4.191   | /26 (255.255.255.192)       |
 | Docentes    | 24   | 5 | 32                          | 192.148.4.192   | 192.148.4.193   | 192.148.4.222   | 192.148.4.223   | /27 (255.255.255.224)       |
 | Seguridad   | 34   | 4 | 16                          | 192.148.4.224   | 192.148.4.225   | 192.148.4.238   | 192.148.4.239   | /28 (255.255.255.240)       |
 
-### Tabla de PCs (Actualización)
+### Tabla de PCs 
 
 | PCS          | IP              | Subnet mask        | Default Gateway    |
 |--------------|------------------|--------------------|--------------------|
