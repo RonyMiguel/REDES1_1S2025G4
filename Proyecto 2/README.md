@@ -1,7 +1,6 @@
 # Proyecto 2
 ## Área CUNDECH
-![]([ruta/de/la/imagen.jpg](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/5ac2dbfa2af5797d1dc87c572ce840db72642e3f/Proyecto%202/imagenes/CUNDECH.png)![image](https://github.com/user-attachments/assets/29d0769e-ba4b-4615-aa65-891772f0cb0a)
-)
+![](https://github.com/RonyMiguel/REDES1_1S2025G4/blob/5ac2dbfa2af5797d1dc87c572ce840db72642e3f/Proyecto%202/imagenes/CUNDECH.png)
 
 ### Tabla VLSM  
 
